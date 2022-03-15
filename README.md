@@ -1,4 +1,2 @@
-Operating Systems Lab tasks
-
-Name: Madhana Goplapuram Ramesh Rathish Aadiraja
-ID: 302457
+# Operating-Systems
+Interprocess communication and memory management in operating systems. Shell programming ,working with processes and threads, memory management, I/O, file systems and security. 
